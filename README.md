@@ -32,13 +32,4 @@ Here are some ideas to get you started:
   
     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
-<p align="center">
-    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=Niefee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&theme=radical&show_icons=true&border=e4e2e2" />
-</p>
-
-<div align="center">
-    <picture align="center">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div>
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
